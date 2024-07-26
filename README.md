@@ -1,0 +1,1 @@
+# RAG-QnA-Private-Document-using-langchain-Pinecone-and-OpenAI
